@@ -1,3 +1,12 @@
+body {
+  min-height: 1000px;
+}
+
+.nav {
+  position: fixed;
+  right: 0;
+}
+
 .nav ul {
   font-size: 0;
   list-style: none;
