@@ -1,0 +1,7 @@
+table th {
+  background: #f4f5f6;
+}
+
+tr:hover {
+  background: lightcyan;
+}
